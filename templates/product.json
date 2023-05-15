@@ -215,20 +215,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "0b711c30-825b-47db-b3eb-91682bd34077": {
-      "type": "thirdwebtokengate",
-      "settings": {
-        "contractAddress": "0x72B2D0c6Eab55028463037a5Bb22A58810105355",
-        "tokenId": "0"
-      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "product-recommendations",
-    "0b711c30-825b-47db-b3eb-91682bd34077"
+    "product-recommendations"
   ]
 }
